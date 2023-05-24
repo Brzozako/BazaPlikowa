@@ -1,0 +1,3 @@
+﻿  BazaPlikowa.cpp
+C:\Users\brzoz\source\repos\BazaPlikowa\BazaPlikowa\BazaPlikowa.cpp(64,20): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+  BazaPlikowa.vcxproj -> C:\Users\brzoz\Source\Repos\BazaPlikowa\x64\Debug\BazaPlikowa.exe
